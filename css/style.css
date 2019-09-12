@@ -347,6 +347,11 @@ body {
 	background: url(../img/icons/menu.png);
 	background-size: 100%;
 }
+.socialIcon a {
+    font-size: 20px;
+    color: #fff;
+    margin-right: 15px;
+}
 
 .fixedNav #navigation {
 	position: fixed;
